@@ -92,15 +92,3 @@ Recomendado via:
 - **Render** / **Railway** para backend
 - **Vercel** / **Netlify** para frontend
 
----
-
-## 🙌 Contribuições
-
-Contribuições são bem-vindas!  
-Sinta-se à vontade para enviar um PR ou abrir uma issue.
-
----
-
-## 📝 Licença
-
-MIT License.
